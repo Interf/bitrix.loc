@@ -1,0 +1,30 @@
+.admin-menu-container {
+	background-color: #f35;
+	padding: 0 !important;
+}
+
+.admin-menu-container>.navbar {
+	padding: 0;
+}
+.admin-ul {
+	width: 100%;
+	flex-direction: column !important;
+	text-align: center;
+}
+
+.admin-ul a:hover {
+	background-color: green;
+}
+
+.announcement {
+	padding: 0 !important;
+}
+
+.admin-input input {
+	width: 100%;
+}
+
+.admin-input textarea {
+	width: 100%;
+	min-height: 250px;
+}
