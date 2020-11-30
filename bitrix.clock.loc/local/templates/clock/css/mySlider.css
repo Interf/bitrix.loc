@@ -1,0 +1,38 @@
+.slider-item {
+	
+}
+
+.slider-container {
+	overflow: hidden;
+	max-width: 445px;
+	height: 500px;
+}
+
+
+.slider-content {
+	position: relative;
+    width: calc(100% * 3);
+    height: 450px; 
+    display: flex;
+    justify-content: start;
+    flex-wrap: nowrap;
+}
+
+.slider-item {
+	width: 445px;
+}
+
+.slider-item {
+	display: none;
+}
+
+.slide-active {
+	display: block;
+}
+
+
+
+.slider-item img {
+	display: block;
+	margin: 0 auto;
+}
