@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #f35f35;
+}
+
+.header-menu {
+	display: flex;
+	flex-direction: row;
+
+}
+
+.footer {
+	text-align: center;
+}
